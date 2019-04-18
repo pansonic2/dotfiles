@@ -33,4 +33,9 @@ brew install ffmpeg
 brew install youtube-dl
 
 
-
+brew cask install qlstephen
+brew cask install qlcolorcode
+brew cask install quicklook-json
+brew cask install qlimagesize
+brew cask install webpquicklook
+brew cask install qlvideo
